@@ -10,9 +10,7 @@ let output = {"nodes":[],"links":[]}
 
 async function setupGraph() {
   if (!fs.existsSync('d3.v4.min.js')) {
-    // console.log('d3 does not exist. download it')
     let d3 = await axios.get(d3cdn)
-    // console.log(d3.data)
     fs.writeFileSync('d3.v4.min.js', d3.data)
   }
   // console.log(names)
@@ -28,7 +26,7 @@ async function setupGraph() {
   for (let completedIndex in completed) {
     let from = completed[completedIndex].from
     let to = completed[completedIndex].to
-    // console.log(`[${from}]${names.people[from].firstName} -> [${to}]${names.people[to].firstName}`)
+    console.log(`[${from}]${names.people[from].firstName} -> [${to}]${names.people[to].firstName}`)
 
     output.links.push({
       "source":names.people[from].firstName + ' ' + names.people[from].lastName,
