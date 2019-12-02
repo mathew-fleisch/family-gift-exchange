@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
-
+body {
+  font-family: helvetica, arial, sans-serif;
+}
 .links line {
   stroke: #999;
   stroke-opacity: 0.6;
@@ -18,9 +20,28 @@ text {
 }
 
 </style>
-<svg width="960" height="600"></svg>
+<h1>Gift Exchange 2019</h1>
+<table><tr>
+<td><svg width="600" height="600"></svg></td>
+<td><table id="target"><thead><th>Gifter</th><th></th><th>Recipient</th></table></td>
+</tr></table>
 <script src="./d3.v4.min.js"></script>
+<script src="./jquery.min.js"></script>
 <script>
+
+
+$( document ).ready(function() {
+    $.ajax({
+      method: 'GET',
+      url: 'output.json',
+      success: function (data) {
+        // $('#target').html(JSON.stringify(data))
+        for (let i in data.links) {
+          $('#target').html($('#target').html() + "<tr><td>" + data.links[i].source + "</td><td> => </td><td>" + data.links[i].target + "</td></tr>")
+        }
+      }
+    })
+});
 
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
@@ -50,7 +71,7 @@ d3.json("./output.json", function(error, graph) {
     .enter().append("g")
     
   var circles = node.append("circle")
-      .attr("r", 5)
+      .attr("r", 10)
       .attr("fill", function(d) { return color(d.group); })
       .call(d3.drag()
           .on("start", dragstarted)

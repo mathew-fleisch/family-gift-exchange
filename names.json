@@ -60,6 +60,10 @@
     "firstName": "Joe",
     "group": "Knowles"
   },{
+    "lastName": "Knowles",
+    "firstName": "Nick",
+    "group": "Knowles"
+  },{
     "lastName": "Swanson",
     "firstName": "Nancy",
     "group": "Swanson"
@@ -72,8 +76,16 @@
     "firstName": "Thomas",
     "group": "Swanson"
   },{
+    "lastName": "Hale",
+    "firstName": "Melissa",
+    "group": "Swanson"
+  },{
     "lastName": "Swanson",
     "firstName": "Miranda",
+    "group": "Swanson"
+  },{
+    "lastName": "Zerrudo",
+    "firstName": "Max",
     "group": "Swanson"
   },{
     "lastName": "Swanson",
@@ -82,19 +94,15 @@
   },{
     "lastName": "Phillips",
     "firstName": "Melissa",
-    "group": "Phillips"
+    "group": "Ulrich2"
   },{
     "lastName": "Phillips",
     "firstName": "Rob",
-    "group": "Phillips"
+    "group": "Ulrich2"
   },{
     "lastName": "Ulrich",
     "firstName": "Billy",
     "group": "Ulrich2"
-  },{
-    "lastName": "Ulrich",
-    "firstName": "Angela",
-    "group": "Ulrich2"
   }],
-  "groups": ["Pettibone", "Smith", "Fleisch", "Ulrich", "Knowles", "Swanson", "Phillips", "Ulrich2"]
+  "groups": ["Pettibone", "Smith", "Fleisch", "Ulrich", "Swanson", "Knowles", "Phillips", "Ulrich2"]
 }

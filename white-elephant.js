@@ -1,7 +1,6 @@
 const names = require('./names.json')
 const fs = require('fs-extra')
 const axios = require('axios')
-const d3cdn = "https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"
 
 let infinite = 0
 let completed = []
@@ -10,9 +9,15 @@ let output = {"nodes":[],"links":[]}
 
 async function setupGraph() {
   if (!fs.existsSync('d3.v4.min.js')) {
-    let d3 = await axios.get(d3cdn)
+    let d3 = await axios.get("https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js")
     fs.writeFileSync('d3.v4.min.js', d3.data)
   }
+  if (!fs.existsSync('jquery.min.js')) {
+    let jquery = await axios.get("https://code.jquery.com/jquery-2.2.4.min.js")
+    fs.writeFileSync('jquery.min.js', jquery.data)
+  }
+
+
   // console.log(names)
 
   for (let thisPersonIndex in names.people) {
@@ -20,7 +25,7 @@ async function setupGraph() {
     if (infinite > 200) {
       break
     }
-    output.nodes.push({"id":names.people[thisPersonIndex].firstName + ' ' +names.people[thisPersonIndex].lastName, "group":names.groups.indexOf(names.people[thisPersonIndex].group)})
+    output.nodes.push({"id":names.people[thisPersonIndex].firstName + ' ' + names.people[thisPersonIndex].lastName, "group":names.groups.indexOf(names.people[thisPersonIndex].group)})
   }
   // console.log('------------------------------------')
   for (let completedIndex in completed) {
