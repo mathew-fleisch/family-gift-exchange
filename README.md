@@ -1,6 +1,6 @@
-# white-elephant
+# Family Gift Exchange
 
-Run `node white-elephant.js` to generate output.json and download d3 locally.
+Run `node gift-exchange.js` to generate output.json and download d3 locally.
 
 ***Start simple python web server***
 `python -m SimpleHTTPServer 8000`
