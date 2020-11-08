@@ -108,62 +108,62 @@
   "links": [
     {
       "source": "Cheryl Pettibone",
-      "target": "Rob Phillips",
-      "value": 5
-    },
-    {
-      "source": "Mike Ulrich",
-      "target": "Joe Knowles",
-      "value": 5
-    },
-    {
-      "source": "Barbara Smith",
-      "target": "Alyssa Leone",
-      "value": 5
-    },
-    {
-      "source": "Bill Smith",
-      "target": "Cheryl Pettibone",
+      "target": "James Swanson",
       "value": 5
     },
     {
       "source": "Rick Pettibone",
-      "target": "Patsy Fleisch",
+      "target": "Polly Knowles",
+      "value": 5
+    },
+    {
+      "source": "Barbara Smith",
+      "target": "Ken Fleisch",
+      "value": 5
+    },
+    {
+      "source": "Bill Smith",
+      "target": "Melissa Hale",
+      "value": 5
+    },
+    {
+      "source": "Mike Ulrich",
+      "target": "Alyssa Leone",
       "value": 5
     },
     {
       "source": "Joyce Ulrich",
-      "target": "Thomas Swanson",
+      "target": "Joe Knowles",
       "value": 5
     },
     {
       "source": "Ken Fleisch",
-      "target": "Billy Ulrich",
+      "target": "Barbara Smith",
       "value": 5
     },
     {
       "source": "Patsy Fleisch",
-      "target": "Max Zerrudo",
-      "value": 5
-    },
-    {
-      "source": "Pete Helseth",
-      "target": "Rick Pettibone",
-      "value": 5
-    },
-    {
-      "source": "Jennifer Helseth",
       "target": "Nancy Swanson",
       "value": 5
     },
     {
+      "source": "Pete Helseth",
+      "target": "Thomas Swanson",
+      "value": 5
+    },
+    {
+      "source": "Jennifer Helseth",
+      "target": "Mark Swanson",
+      "value": 5
+    },
+    {
       "source": "Mathew Fleisch",
-      "target": "Joyce Ulrich",
+      "target": "Mike Ulrich",
       "value": 5
     },
     {
       "source": "Alyssa Leone",
-      "target": "Miranda Swanson",
+      "target": "Melissa Phillips",
       "value": 5
     },
     {
@@ -173,67 +173,67 @@
     },
     {
       "source": "Polly Knowles",
-      "target": "Alex Fleisch",
-      "value": 5
-    },
-    {
-      "source": "Joe Knowles",
-      "target": "James Swanson",
-      "value": 5
-    },
-    {
-      "source": "Nick Knowles",
-      "target": "Mark Swanson",
-      "value": 5
-    },
-    {
-      "source": "Nancy Swanson",
       "target": "Pete Helseth",
       "value": 5
     },
     {
+      "source": "Joe Knowles",
+      "target": "Cheryl Pettibone",
+      "value": 5
+    },
+    {
+      "source": "Nick Knowles",
+      "target": "Rob Phillips",
+      "value": 5
+    },
+    {
+      "source": "Nancy Swanson",
+      "target": "Billy Ulrich",
+      "value": 5
+    },
+    {
       "source": "Mark Swanson",
-      "target": "Mike Ulrich",
+      "target": "Patsy Fleisch",
       "value": 5
     },
     {
       "source": "Thomas Swanson",
-      "target": "Melissa Phillips",
+      "target": "Alex Fleisch",
       "value": 5
     },
     {
       "source": "Melissa Hale",
-      "target": "Barbara Smith",
-      "value": 5
-    },
-    {
-      "source": "Miranda Swanson",
-      "target": "Jennifer Helseth",
-      "value": 5
-    },
-    {
-      "source": "Max Zerrudo",
-      "target": "Ken Fleisch",
-      "value": 5
-    },
-    {
-      "source": "James Swanson",
       "target": "Bill Smith",
       "value": 5
     },
     {
-      "source": "Melissa Phillips",
-      "target": "Polly Knowles",
-      "value": 5
-    },
-    {
-      "source": "Billy Ulrich",
+      "source": "Miranda Swanson",
       "target": "Mathew Fleisch",
       "value": 5
     },
     {
+      "source": "Max Zerrudo",
+      "target": "Jennifer Helseth",
+      "value": 5
+    },
+    {
+      "source": "James Swanson",
+      "target": "Joyce Ulrich",
+      "value": 5
+    },
+    {
+      "source": "Melissa Phillips",
+      "target": "Miranda Swanson",
+      "value": 5
+    },
+    {
       "source": "Rob Phillips",
-      "target": "Melissa Hale",
+      "target": "Max Zerrudo",
+      "value": 5
+    },
+    {
+      "source": "Billy Ulrich",
+      "target": "Rick Pettibone",
       "value": 5
     }
   ]
