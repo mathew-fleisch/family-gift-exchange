@@ -1,0 +1,240 @@
+{
+  "nodes": [
+    {
+      "id": "Cheryl Pettibone",
+      "group": 0
+    },
+    {
+      "id": "Rick Pettibone",
+      "group": 0
+    },
+    {
+      "id": "Barbara Smith",
+      "group": 1
+    },
+    {
+      "id": "Bill Smith",
+      "group": 1
+    },
+    {
+      "id": "Mike Ulrich",
+      "group": 3
+    },
+    {
+      "id": "Joyce Ulrich",
+      "group": 3
+    },
+    {
+      "id": "Ken Fleisch",
+      "group": 2
+    },
+    {
+      "id": "Patsy Fleisch",
+      "group": 2
+    },
+    {
+      "id": "Pete Helseth",
+      "group": 2
+    },
+    {
+      "id": "Jennifer Helseth",
+      "group": 2
+    },
+    {
+      "id": "Mathew Fleisch",
+      "group": 2
+    },
+    {
+      "id": "Alyssa Leone",
+      "group": 2
+    },
+    {
+      "id": "Alex Fleisch",
+      "group": 2
+    },
+    {
+      "id": "Polly Knowles",
+      "group": 5
+    },
+    {
+      "id": "Joe Knowles",
+      "group": 5
+    },
+    {
+      "id": "Nick Knowles",
+      "group": 5
+    },
+    {
+      "id": "Nancy Swanson",
+      "group": 4
+    },
+    {
+      "id": "Mark Swanson",
+      "group": 4
+    },
+    {
+      "id": "Thomas Swanson",
+      "group": 4
+    },
+    {
+      "id": "Melissa Hale",
+      "group": 4
+    },
+    {
+      "id": "Miranda Swanson",
+      "group": 4
+    },
+    {
+      "id": "Max Zerrudo",
+      "group": 4
+    },
+    {
+      "id": "James Swanson",
+      "group": 4
+    },
+    {
+      "id": "Melissa Phillips",
+      "group": 7
+    },
+    {
+      "id": "Rob Phillips",
+      "group": 7
+    },
+    {
+      "id": "Billy Ulrich",
+      "group": 7
+    }
+  ],
+  "links": [
+    {
+      "source": "Cheryl Pettibone",
+      "target": "James Swanson",
+      "value": 5
+    },
+    {
+      "source": "Rick Pettibone",
+      "target": "Polly Knowles",
+      "value": 5
+    },
+    {
+      "source": "Barbara Smith",
+      "target": "Melissa Hale",
+      "value": 5
+    },
+    {
+      "source": "Bill Smith",
+      "target": "Ken Fleisch",
+      "value": 5
+    },
+    {
+      "source": "Mike Ulrich",
+      "target": "Alyssa Leone",
+      "value": 5
+    },
+    {
+      "source": "Joyce Ulrich",
+      "target": "Joe Knowles",
+      "value": 5
+    },
+    {
+      "source": "Ken Fleisch",
+      "target": "Barbara Smith",
+      "value": 5
+    },
+    {
+      "source": "Patsy Fleisch",
+      "target": "Nancy Swanson",
+      "value": 5
+    },
+    {
+      "source": "Pete Helseth",
+      "target": "Thomas Swanson",
+      "value": 5
+    },
+    {
+      "source": "Jennifer Helseth",
+      "target": "Mark Swanson",
+      "value": 5
+    },
+    {
+      "source": "Mathew Fleisch",
+      "target": "Mike Ulrich",
+      "value": 5
+    },
+    {
+      "source": "Alyssa Leone",
+      "target": "Melissa Phillips",
+      "value": 5
+    },
+    {
+      "source": "Alex Fleisch",
+      "target": "Nick Knowles",
+      "value": 5
+    },
+    {
+      "source": "Polly Knowles",
+      "target": "Pete Helseth",
+      "value": 5
+    },
+    {
+      "source": "Joe Knowles",
+      "target": "Cheryl Pettibone",
+      "value": 5
+    },
+    {
+      "source": "Nick Knowles",
+      "target": "Rob Phillips",
+      "value": 5
+    },
+    {
+      "source": "Nancy Swanson",
+      "target": "Billy Ulrich",
+      "value": 5
+    },
+    {
+      "source": "Mark Swanson",
+      "target": "Patsy Fleisch",
+      "value": 5
+    },
+    {
+      "source": "Thomas Swanson",
+      "target": "Alex Fleisch",
+      "value": 5
+    },
+    {
+      "source": "Melissa Hale",
+      "target": "Bill Smith",
+      "value": 5
+    },
+    {
+      "source": "Miranda Swanson",
+      "target": "Mathew Fleisch",
+      "value": 5
+    },
+    {
+      "source": "Max Zerrudo",
+      "target": "Jennifer Helseth",
+      "value": 5
+    },
+    {
+      "source": "James Swanson",
+      "target": "Joyce Ulrich",
+      "value": 5
+    },
+    {
+      "source": "Melissa Phillips",
+      "target": "Miranda Swanson",
+      "value": 5
+    },
+    {
+      "source": "Rob Phillips",
+      "target": "Max Zerrudo",
+      "value": 5
+    },
+    {
+      "source": "Billy Ulrich",
+      "target": "Rick Pettibone",
+      "value": 5
+    }
+  ]
+}
