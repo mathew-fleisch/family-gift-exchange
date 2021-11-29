@@ -52,6 +52,10 @@
     "firstName": "Alex",
     "group": "Fleisch"
   },{
+    "lastName": "Poss",
+    "firstName": "Cate",
+    "group": "Fleisch"
+  },{
     "lastName": "Knowles",
     "firstName": "Polly",
     "group": "Knowles"
@@ -96,13 +100,9 @@
     "firstName": "Melissa",
     "group": "Ulrich2"
   },{
-    "lastName": "Phillips",
-    "firstName": "Rob",
-    "group": "Ulrich2"
-  },{
     "lastName": "Ulrich",
     "firstName": "Billy",
     "group": "Ulrich2"
   }],
-  "groups": ["Pettibone", "Smith", "Fleisch", "Ulrich", "Swanson", "Knowles", "Phillips", "Ulrich2"]
+  "groups": ["Pettibone", "Smith", "Fleisch", "Ulrich", "Swanson", "Knowles", "Ulrich2"]
 }
