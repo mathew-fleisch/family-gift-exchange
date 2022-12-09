@@ -88,20 +88,20 @@
     "firstName": "Miranda",
     "group": "Swanson"
   },{
-    "lastName": "Zerrudo",
-    "firstName": "Max",
-    "group": "Swanson"
-  },{
     "lastName": "Swanson",
     "firstName": "James",
     "group": "Swanson"
   },{
     "lastName": "Phillips",
-    "firstName": "Melissa",
+    "firstName": "Riktor",
     "group": "Ulrich2"
   },{
     "lastName": "Ulrich",
     "firstName": "Billy",
+    "group": "Ulrich2"
+  },{
+    "lastName": " ",
+    "firstName": "Natalie",
     "group": "Ulrich2"
   }],
   "groups": ["Pettibone", "Smith", "Fleisch", "Ulrich", "Swanson", "Knowles", "Ulrich2"]

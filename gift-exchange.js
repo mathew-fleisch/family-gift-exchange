@@ -85,14 +85,14 @@ async function getRandomPerson(thisPersonIndex) {
   // that was dumb
   let randomPerson = theHat[Math.floor(Math.random()*theHat.length)]
   // Blatent Cheating
-  if (thisPersonIndex == 10) randomPerson = 19
-  if (randomPerson == 19 && thisPersonIndex != 10) return getRandomPerson(thisPersonIndex)
-  if (thisPersonIndex == 11) randomPerson = 2
-  if (randomPerson == 2 && thisPersonIndex != 11) return getRandomPerson(thisPersonIndex)
-  if (thisPersonIndex == 3) randomPerson = 10
-  if (randomPerson == 10 && thisPersonIndex != 3) return getRandomPerson(thisPersonIndex)
-  if (thisPersonIndex == 5) randomPerson = 11
-  if (randomPerson == 11 && thisPersonIndex != 5) return getRandomPerson(thisPersonIndex)
+  // if (thisPersonIndex == 10) randomPerson = 19
+  // if (randomPerson == 19 && thisPersonIndex != 10) return getRandomPerson(thisPersonIndex)
+  // if (thisPersonIndex == 11) randomPerson = 2
+  // if (randomPerson == 2 && thisPersonIndex != 11) return getRandomPerson(thisPersonIndex)
+  // if (thisPersonIndex == 3) randomPerson = 10
+  // if (randomPerson == 10 && thisPersonIndex != 3) return getRandomPerson(thisPersonIndex)
+  // if (thisPersonIndex == 5) randomPerson = 11
+  // if (randomPerson == 11 && thisPersonIndex != 5) return getRandomPerson(thisPersonIndex)
   console.log(name.firstName + " " + name.lastName + " picked " + names.people[randomPerson].firstName + " " + names.people[randomPerson].lastName)
   if (name.group == names.people[randomPerson].group) {
     console.log('Do not pick people in the same group')
