@@ -5,43 +5,7 @@
       "group": 0
     },
     {
-      "id": "Alyssa Leone",
-      "group": 2
-    },
-    {
-      "id": "Joyce Ulrich",
-      "group": 3
-    },
-    {
-      "id": "Pete Helseth",
-      "group": 2
-    },
-    {
-      "id": "Nancy Swanson",
-      "group": 4
-    },
-    {
-      "id": "Joe Knowles",
-      "group": 5
-    },
-    {
-      "id": "Bill Smith",
-      "group": 1
-    },
-    {
-      "id": "Riktor Phillips",
-      "group": 6
-    },
-    {
-      "id": "Mike Ulrich",
-      "group": 3
-    },
-    {
-      "id": "Natalie",
-      "group": 4
-    },
-    {
-      "id": "Ken Fleisch",
+      "id": "Mathew Fleisch",
       "group": 2
     },
     {
@@ -49,43 +13,11 @@
       "group": 1
     },
     {
-      "id": "Polly Knowles",
-      "group": 5
-    },
-    {
-      "id": "Thomas Swanson",
+      "id": "Nancy Swanson",
       "group": 4
-    },
-    {
-      "id": "Mathew Fleisch",
-      "group": 2
-    },
-    {
-      "id": "James Swanson",
-      "group": 4
-    },
-    {
-      "id": "Alex Fleisch",
-      "group": 2
-    },
-    {
-      "id": "Nick Knowles",
-      "group": 5
-    },
-    {
-      "id": "Maria LaRosa",
-      "group": 5
     },
     {
       "id": "Jennifer Helseth",
-      "group": 2
-    },
-    {
-      "id": "Melissa Hale",
-      "group": 4
-    },
-    {
-      "id": "Patsy Fleisch",
       "group": 2
     },
     {
@@ -93,85 +25,120 @@
       "group": 0
     },
     {
+      "id": "Nick Knowles",
+      "group": 5
+    },
+    {
+      "id": "Ken Fleisch",
+      "group": 2
+    },
+    {
+      "id": "Joyce Ulrich",
+      "group": 3
+    },
+    {
+      "id": "Melissa Hale",
+      "group": 4
+    },
+    {
+      "id": "Mike Ulrich",
+      "group": 3
+    },
+    {
       "id": "Mark Swanson",
       "group": 4
     },
     {
-      "id": "Billy Ulrich",
-      "group": 6
+      "id": "Polly Knowles",
+      "group": 5
     },
     {
-      "id": "Cate Fleisch",
+      "id": "James Swanson",
+      "group": 4
+    },
+    {
+      "id": "Bill Smith",
+      "group": 1
+    },
+    {
+      "id": "Patsy Fleisch",
       "group": 2
     },
     {
       "id": "Miranda Swanson",
       "group": 4
+    },
+    {
+      "id": "Alyssa Leone",
+      "group": 2
+    },
+    {
+      "id": "Thomas Swanson",
+      "group": 4
+    },
+    {
+      "id": "Pete Helseth",
+      "group": 2
     }
   ],
   "links": [
     {
       "source": "Cheryl Pettibone",
-      "target": "Alyssa Leone",
+      "target": "Mathew Fleisch",
       "value": 5
     },
     {
-      "source": "Alyssa Leone",
-      "target": "Maria LaRosa",
-      "value": 5
-    },
-    {
-      "source": "Maria LaRosa",
-      "target": "Joyce Ulrich",
-      "value": 5
-    },
-    {
-      "source": "Joyce Ulrich",
-      "target": "Pete Helseth",
-      "value": 5
-    },
-    {
-      "source": "Pete Helseth",
-      "target": "Nancy Swanson",
-      "value": 5
-    },
-    {
-      "source": "Nancy Swanson",
-      "target": "Joe Knowles",
-      "value": 5
-    },
-    {
-      "source": "Joe Knowles",
-      "target": "Bill Smith",
-      "value": 5
-    },
-    {
-      "source": "Bill Smith",
-      "target": "Riktor Phillips",
-      "value": 5
-    },
-    {
-      "source": "Riktor Phillips",
-      "target": "Mike Ulrich",
-      "value": 5
-    },
-    {
-      "source": "Mike Ulrich",
-      "target": "Natalie",
-      "value": 5
-    },
-    {
-      "source": "Natalie",
-      "target": "Ken Fleisch",
-      "value": 5
-    },
-    {
-      "source": "Ken Fleisch",
+      "source": "Mathew Fleisch",
       "target": "Barbara Smith",
       "value": 5
     },
     {
       "source": "Barbara Smith",
+      "target": "Nancy Swanson",
+      "value": 5
+    },
+    {
+      "source": "Nancy Swanson",
+      "target": "Jennifer Helseth",
+      "value": 5
+    },
+    {
+      "source": "Jennifer Helseth",
+      "target": "Rick Pettibone",
+      "value": 5
+    },
+    {
+      "source": "Rick Pettibone",
+      "target": "Nick Knowles",
+      "value": 5
+    },
+    {
+      "source": "Nick Knowles",
+      "target": "Ken Fleisch",
+      "value": 5
+    },
+    {
+      "source": "Ken Fleisch",
+      "target": "Joyce Ulrich",
+      "value": 5
+    },
+    {
+      "source": "Joyce Ulrich",
+      "target": "Melissa Hale",
+      "value": 5
+    },
+    {
+      "source": "Melissa Hale",
+      "target": "Mike Ulrich",
+      "value": 5
+    },
+    {
+      "source": "Mike Ulrich",
+      "target": "Mark Swanson",
+      "value": 5
+    },
+    {
+      "source": "Mark Swanson",
       "target": "Polly Knowles",
       "value": 5
     },
@@ -182,66 +149,36 @@
     },
     {
       "source": "James Swanson",
-      "target": "Alex Fleisch",
+      "target": "Bill Smith",
       "value": 5
     },
     {
-      "source": "Alex Fleisch",
-      "target": "Thomas Swanson",
-      "value": 5
-    },
-    {
-      "source": "Thomas Swanson",
-      "target": "Mathew Fleisch",
-      "value": 5
-    },
-    {
-      "source": "Mathew Fleisch",
-      "target": "Melissa Hale",
-      "value": 5
-    },
-    {
-      "source": "Melissa Hale",
-      "target": "Jennifer Helseth",
-      "value": 5
-    },
-    {
-      "source": "Jennifer Helseth",
-      "target": "Nick Knowles",
-      "value": 5
-    },
-    {
-      "source": "Nick Knowles",
+      "source": "Bill Smith",
       "target": "Patsy Fleisch",
       "value": 5
     },
     {
       "source": "Patsy Fleisch",
-      "target": "Rick Pettibone",
-      "value": 5
-    },
-    {
-      "source": "Rick Pettibone",
-      "target": "Mark Swanson",
-      "value": 5
-    },
-    {
-      "source": "Mark Swanson",
-      "target": "Cate Fleisch",
-      "value": 5
-    },
-    {
-      "source": "Cate Fleisch",
       "target": "Miranda Swanson",
       "value": 5
     },
     {
       "source": "Miranda Swanson",
-      "target": "Billy Ulrich",
+      "target": "Alyssa Leone",
       "value": 5
     },
     {
-      "source": "Billy Ulrich",
+      "source": "Alyssa Leone",
+      "target": "Thomas Swanson",
+      "value": 5
+    },
+    {
+      "source": "Thomas Swanson",
+      "target": "Pete Helseth",
+      "value": 5
+    },
+    {
+      "source": "Pete Helseth",
       "target": "Cheryl Pettibone",
       "value": 5
     }

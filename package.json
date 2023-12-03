@@ -1,6 +1,6 @@
 {
   "name": "family gift exchange",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "gift-exchange.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.24.0",
     "fs-extra": "^8.1.0"
   }
 }

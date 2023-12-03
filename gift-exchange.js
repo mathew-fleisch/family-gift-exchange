@@ -1,6 +1,6 @@
 const names = require('./names.json')
 const fs = require('fs-extra')
-const axios = require('axios')
+// const axios = require('axios')
 
 let infinite = 0
 let startWithIndex = 0
@@ -9,16 +9,16 @@ let selected = []
 let theHat = []
 let output = {"nodes":[],"links":[]}
 
-async function whyIsThisNecessary() {
-  if (!fs.existsSync('d3.v4.min.js')) {
-    let d3 = await axios.get("https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js")
-    fs.writeFileSync('d3.v4.min.js', d3.data)
-  }
-  if (!fs.existsSync('jquery.min.js')) {
-    let jquery = await axios.get("https://code.jquery.com/jquery-2.2.4.min.js")
-    fs.writeFileSync('jquery.min.js', jquery.data)
-  }
-}
+// async function whyIsThisNecessary() {
+//   if (!fs.existsSync('d3.v4.min.js')) {
+//     let d3 = await axios.get("https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js")
+//     fs.writeFileSync('d3.v4.min.js', d3.data)
+//   }
+//   if (!fs.existsSync('jquery.min.js')) {
+//     let jquery = await axios.get("https://code.jquery.com/jquery-2.2.4.min.js")
+//     fs.writeFileSync('jquery.min.js', jquery.data)
+//   }
+// }
 
 async function setupGraph() {
   // whyIsThisNecessary()
