@@ -1,13 +1,5 @@
 {
   "people": [{
-    "lastName": "Pettibone",
-    "firstName": "Cheryl",
-    "group": "Pettibone"
-  },{
-    "lastName": "Pettibone",
-    "firstName": "Rick",
-    "group": "Pettibone"
-  },{
     "lastName": "Smith",
     "firstName": "Barbara",
     "group": "Smith"
@@ -48,20 +40,8 @@
     "firstName": "Alyssa",
     "group": "Fleisch"
   },{
-    "lastName": "Fleisch",
-    "firstName": "Alex",
-    "group": "Fleisch"
-  },{
-    "lastName": "Poss",
-    "firstName": "Cate",
-    "group": "Fleisch"
-  },{
     "lastName": "Knowles",
     "firstName": "Polly",
-    "group": "Knowles"
-  },{
-    "lastName": "Knowles",
-    "firstName": "Joe",
     "group": "Knowles"
   },{
     "lastName": "Knowles",
@@ -85,24 +65,8 @@
     "group": "Swanson"
   },{
     "lastName": "Swanson",
-    "firstName": "Miranda",
-    "group": "Swanson"
-  },{
-    "lastName": "Swanson",
     "firstName": "James",
     "group": "Swanson"
-  },{
-    "lastName": "Phillips",
-    "firstName": "Riktor",
-    "group": "Ulrich2"
-  },{
-    "lastName": "Ulrich",
-    "firstName": "Billy",
-    "group": "Ulrich2"
-  },{
-    "lastName": " ",
-    "firstName": "Natalie",
-    "group": "Ulrich2"
   }],
   "groups": ["Pettibone", "Smith", "Fleisch", "Ulrich", "Swanson", "Knowles", "Ulrich2"]
 }
