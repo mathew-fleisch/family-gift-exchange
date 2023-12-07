@@ -5,15 +5,7 @@
       "group": 1
     },
     {
-      "id": "Mark Swanson",
-      "group": 4
-    },
-    {
-      "id": "Patsy Fleisch",
-      "group": 2
-    },
-    {
-      "id": "Melissa Hale",
+      "id": "Nancy Swanson",
       "group": 4
     },
     {
@@ -21,11 +13,39 @@
       "group": 2
     },
     {
-      "id": "Bill Smith",
-      "group": 1
+      "id": "Melissa Hale",
+      "group": 4
+    },
+    {
+      "id": "Nick Knowles",
+      "group": 5
+    },
+    {
+      "id": "Patsy Fleisch",
+      "group": 2
+    },
+    {
+      "id": "Mark Swanson",
+      "group": 4
+    },
+    {
+      "id": "Polly Knowles",
+      "group": 5
+    },
+    {
+      "id": "Mike Ulrich",
+      "group": 3
     },
     {
       "id": "Jennifer Helseth",
+      "group": 2
+    },
+    {
+      "id": "Thomas Swanson",
+      "group": 4
+    },
+    {
+      "id": "Pete Helseth",
       "group": 2
     },
     {
@@ -37,32 +57,12 @@
       "group": 2
     },
     {
-      "id": "Thomas Swanson",
-      "group": 4
-    },
-    {
-      "id": "Mike Ulrich",
-      "group": 3
-    },
-    {
-      "id": "Nick Knowles",
-      "group": 5
-    },
-    {
       "id": "James Swanson",
       "group": 4
     },
     {
-      "id": "Pete Helseth",
-      "group": 2
-    },
-    {
-      "id": "Nancy Swanson",
-      "group": 4
-    },
-    {
-      "id": "Polly Knowles",
-      "group": 5
+      "id": "Bill Smith",
+      "group": 1
     },
     {
       "id": "Alyssa Leone",
@@ -72,36 +72,61 @@
   "links": [
     {
       "source": "Barbara Smith",
-      "target": "Mark Swanson",
+      "target": "Nancy Swanson",
       "value": 5
     },
     {
-      "source": "Mark Swanson",
-      "target": "Patsy Fleisch",
-      "value": 5
-    },
-    {
-      "source": "Patsy Fleisch",
-      "target": "Melissa Hale",
-      "value": 5
-    },
-    {
-      "source": "Melissa Hale",
+      "source": "Nancy Swanson",
       "target": "Ken Fleisch",
       "value": 5
     },
     {
       "source": "Ken Fleisch",
-      "target": "Bill Smith",
+      "target": "Melissa Hale",
       "value": 5
     },
     {
-      "source": "Bill Smith",
+      "source": "Melissa Hale",
+      "target": "Nick Knowles",
+      "value": 5
+    },
+    {
+      "source": "Nick Knowles",
+      "target": "Patsy Fleisch",
+      "value": 5
+    },
+    {
+      "source": "Patsy Fleisch",
+      "target": "Mark Swanson",
+      "value": 5
+    },
+    {
+      "source": "Mark Swanson",
+      "target": "Polly Knowles",
+      "value": 5
+    },
+    {
+      "source": "Polly Knowles",
+      "target": "Mike Ulrich",
+      "value": 5
+    },
+    {
+      "source": "Mike Ulrich",
       "target": "Jennifer Helseth",
       "value": 5
     },
     {
       "source": "Jennifer Helseth",
+      "target": "Thomas Swanson",
+      "value": 5
+    },
+    {
+      "source": "Thomas Swanson",
+      "target": "Pete Helseth",
+      "value": 5
+    },
+    {
+      "source": "Pete Helseth",
       "target": "Joyce Ulrich",
       "value": 5
     },
@@ -112,41 +137,16 @@
     },
     {
       "source": "Mathew Fleisch",
-      "target": "Thomas Swanson",
-      "value": 5
-    },
-    {
-      "source": "Thomas Swanson",
-      "target": "Mike Ulrich",
-      "value": 5
-    },
-    {
-      "source": "Mike Ulrich",
-      "target": "Nick Knowles",
-      "value": 5
-    },
-    {
-      "source": "Nick Knowles",
       "target": "James Swanson",
       "value": 5
     },
     {
       "source": "James Swanson",
-      "target": "Pete Helseth",
+      "target": "Bill Smith",
       "value": 5
     },
     {
-      "source": "Pete Helseth",
-      "target": "Nancy Swanson",
-      "value": 5
-    },
-    {
-      "source": "Nancy Swanson",
-      "target": "Polly Knowles",
-      "value": 5
-    },
-    {
-      "source": "Polly Knowles",
+      "source": "Bill Smith",
       "target": "Alyssa Leone",
       "value": 5
     },
