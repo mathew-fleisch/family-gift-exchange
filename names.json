@@ -1,13 +1,5 @@
 {
   "people": [{
-    "lastName": "Pettibone",
-    "firstName": "Cheryl",
-    "group": "Pettibone"
-  },{
-    "lastName": "Pettibone",
-    "firstName": "Rick",
-    "group": "Pettibone"
-  },{
     "lastName": "Smith",
     "firstName": "Barbara",
     "group": "Smith"
@@ -70,10 +62,6 @@
   },{
     "lastName": "Hale",
     "firstName": "Melissa",
-    "group": "Swanson"
-  },{
-    "lastName": "Swanson",
-    "firstName": "Miranda",
     "group": "Swanson"
   },{
     "lastName": "Swanson",
